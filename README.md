@@ -11,10 +11,19 @@ Passionate Tech Lead from India with 8 years of experience in crafting exception
 - **DevOps:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 - **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
+## 🔧 Projects
+1. [Hubilo Webinar+](https://www.hubilo.com/webinar): Enhanced webinar platform with React Hooks and WebRTC.
+2. [Snackable Content Hub](https://www.hubilo.com/snackable-content-hub): Dynamic content platform for event organizers.
+3. [Revenue Impact Dashboard](https://www.hubilo.com/revenue-impact-dashboard): Tool for tracking financial performance of events.
+4. [Hubilo Broadcasting Studio](https://www.hubilo.com/your-needs/broadcasting-studio): Innovative broadcasting solution with Agora and SDRTN.
+5. [My Bharat Gas Portal](https://my.ebharatgas.com/bharatgas/LPGServices/Index): Transformed the portal for a seamless user experience.
+6. [Hello BPCL (Mobile App)](https://apps.apple.com/in/app/hello-bpcl/id594797915): React Native app with a 4.5-star rating.
+7. Tutree Connect (Mobile App) & Tutree CMS: Integrated solution for seamless communication and content management.
+
 ## 🌐 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gupta-2339716b/)
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:sachingupta.coder@gmail.com)
-- [![Contact](https://img.shields.io/badge/-Contact-34B7F1?logo=phone&logoColor=white)](tel:+91-7692023477) : +91-7692023477
+- LinkedIn: [Sachin Gupta](https://www.linkedin.com/in/sachin-gupta-2339716b/)
+- Email: sachingupta.coder@gmail.com
+- Contact: +91-7692023477
 
 ## 🎵 Fun Fact
 I don't just code; I orchestrate a symphony of stacks! 🎵💻
